@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER"/>
+	<classpathentry kind="src" path="Smartchip_Computers_Inc/.mvn/wrapper"/>
+	<classpathentry kind="src" path="Smartchip_Computers_Inc/src/main/java"/>
+	<classpathentry kind="src" path="Smartchip_Computers_Inc/src/test/java"/>
+	<classpathentry kind="lib" path="Smartchip_Computers_Inc/bin/.mvn/wrapper/maven-wrapper.jar"/>
+	<classpathentry kind="lib" path="Smartchip_Computers_Inc/bin/target/Smartchip_Computers_Inc-0.0.1-SNAPSHOT.jar"/>
+	<classpathentry kind="lib" path="Smartchip_Computers_Inc/target/Smartchip_Computers_Inc-0.0.1-SNAPSHOT.jar"/>
+	<classpathentry kind="output" path="Smartchip_Computers_Inc/target/classes"/>
+</classpath>
